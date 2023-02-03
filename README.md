@@ -9,4 +9,5 @@ XModdingtools is a ***Plugin*** for the 3D Program ***Blender***.
 
 !(../blob/main/pictures/pictures_01.gif)
 
-![function_01](https://github.com/haunetal1990/XModdingtools/blob/pictures/pictures_01.gif?raw=true)
+![function_01](https://github.com/haunetal1990/XModdingtools/blob/pictures/pictures_01.gif)
+![pictures](pictures_01.gif)
