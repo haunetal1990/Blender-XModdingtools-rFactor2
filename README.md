@@ -7,5 +7,5 @@ XModdingtools is a ***Plugin*** for the 3D Program ***Blender***.
 
 ***works in:*** Blender 2.93, 3.3.1
 
-!(../blob/main/pictures/pictures_01.gif)
 ![My animated logo](pictures/pictures_01.gif)
+![My animated logo](pictures/pictures_02.gif)
