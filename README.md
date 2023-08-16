@@ -9,6 +9,7 @@ The second button is for people who only want to rename the mesh data names, but
 - rename only mesh data name from selected meshes 
 - add track objects (tirewall, cone) including modifier array function
 - refresh the materials of selected meshes
+- set Textures to Alpha
 
 ***works in:*** > Blender 2.93, 3.6.1
 
