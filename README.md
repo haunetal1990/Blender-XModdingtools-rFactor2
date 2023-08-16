@@ -10,6 +10,6 @@ The second button is for people who only want to rename the mesh data names, but
 - add track objects (tirewall, cone) including modifier array function
 - refresh the materials of selected meshes
 
-***works in:*** Blender 2.93, 3.3.1
+***works in:*** > Blender 2.93, 3.6.1
 
 ![My animated logo](pictures/View.jpg)![My animated logo](pictures/pictures_01.gif)
