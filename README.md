@@ -12,7 +12,4 @@ The second button is for people who only want to rename the mesh data names, but
 
 ***works in:*** Blender 2.93, 3.3.1
 
-![My animated logo](pictures/View.jpg)
-
-![My animated logo](pictures/pictures_01.gif)
-![My animated logo](pictures/pictures_02.gif)
+![My animated logo](pictures/View.jpg)![My animated logo](pictures/pictures_01.gif)
