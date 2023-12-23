@@ -7,7 +7,7 @@ The second button is for people who only want to rename the mesh data names, but
 ***Functions:***
 - rename selected meshes using a text box and a button (including mesh data name)
 - rename only mesh data name from selected meshes 
-- add track objects (tirewall, cone) including modifier array function
+- add track objects (Tirewall, Cone, Trackverge, Stripes, Wall, ...) including modifier array function
 - refresh the materials of selected meshes
 - set Textures to Alpha
 
