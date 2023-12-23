@@ -13,4 +13,4 @@ The second button is for people who only want to rename the mesh data names, but
 
 ***works in:*** > Blender 2.93, 3.6.1
 
-<img src="pictures/View.jpg" height="300"><img src="pictures/pictures_01.gif" height="300">
+<img src="pictures/image_01.jpg" height="300">
