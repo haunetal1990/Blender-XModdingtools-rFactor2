@@ -11,6 +11,6 @@ The second button is for people who only want to rename the mesh data names, but
 - refresh the materials of selected meshes
 - set Textures to Alpha
 
-***works in:*** > Blender 2.93, 3.6.1 (v 0.2.0) and 4.0.2 (v 0.2.5)
+***works in:*** > Blender 2.93, 3.6.1 (< v 0.2.0) and 4.0.2 (> v 0.2.5)
 
 ***Multilanguage:*** english and german
